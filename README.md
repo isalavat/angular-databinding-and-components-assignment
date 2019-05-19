@@ -1,4 +1,4 @@
-#<b>This project was developed as an example following the lessons of the Angular Course of Maximilian Schwarzmüller on Udemy (Angular 7 (formerly Amgular 2) - The Complete Guide)<b><hr> 
+<h2>This project was developed as an example following the lessons of the Angular Course of Maximilian Schwarzmüller on Udemy (Angular 7 (formerly Amgular 2) - The Complete Guide)<h2> 
 
 # DeepDiveComponentsDatabinding
 
