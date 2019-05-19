@@ -1,0 +1,11 @@
+<div class="container">
+<app-cockpit (onServerAdded)="onServerAdded($event)" (onBlueprintAdded)="onBlueprintAdded($event)"></app-cockpit>
+
+<div class="row">
+    <div class="col-xs-12" *ngFor="let serverElement of serverElements">
+      <app-server-element [element]="serverElement">
+        <div class="panel-body" [ngStyle]="{color : serverElement.type === 'server'?'red':'blue'}">{{serverElement.content}}</div>
+      </app-server-element>
+    </div>
+</div>
+</div>
