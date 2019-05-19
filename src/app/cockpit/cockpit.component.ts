@@ -3,7 +3,7 @@ import {Component, EventEmitter, OnInit, Output, ViewChild} from '@angular/core'
  * @source - https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content
  * (Angular Course on Udemy.com)
  * Simple component that allows to create server or blueprint
- * @author salavat
+ * @made_by Salavat
  */
 @Component({
   selector: 'app-cockpit',

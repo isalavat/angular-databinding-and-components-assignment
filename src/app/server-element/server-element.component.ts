@@ -3,7 +3,7 @@ import {Component, Input, OnInit} from '@angular/core';
  * @source - https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content
  * (Angular Course on Udemy.com)
  * Simple component representing a server
- * @author salavat
+ * @made_by Salavat
  */
 @Component({
   selector: 'app-server-element',
