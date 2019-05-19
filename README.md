@@ -1,3 +1,5 @@
+<b>This project was developed as an example following the lessons of the Angular Course of Maximilian Schwarzmüller on the Udemy Angular 7 (formerly Amgular 2) - The Complete Guide<b><hr> 
+
 # DeepDiveComponentsDatabinding
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
